@@ -9,3 +9,7 @@ Here is a link to [Overview of NLP](Overview_of_NLP.pdf).
 Here is a link to [Homework 1](Homework1_axi180011.py).
 
 The overview of this assignment is [here](PA1_Overview.md).
+
+## Portfolio Assignment 2: Word Guess Game
+
+Here is a link to [Homework 2](Homework2_axi180011.py).
