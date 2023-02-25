@@ -13,3 +13,8 @@ The overview of this assignment is [here](PA1_Overview.md).
 ## Portfolio Assignment 2: Word Guess Game
 
 Here is a link to [Homework 2](Homework2_axi180011.py).
+
+## Portfolio Assignment 3: WordNet
+
+Here is a link to the jupyter notebook for [Homework 3](Homework3_axi180011.ipynb).  
+Here is a link to the pdf document for [Homework 3](Homework3_axi180011.pdf).
