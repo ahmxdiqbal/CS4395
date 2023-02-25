@@ -16,5 +16,6 @@ Here is a link to [Homework 2](Homework2_axi180011.py).
 
 ## Portfolio Assignment 3: WordNet
 
-Here is a link to the jupyter notebook for [Homework 3](Homework3_axi180011.ipynb).  
-Here is a link to the pdf document for [Homework 3](Homework3_axi180011.pdf).
+Here is a link to the [jupyter notebook](Homework3_axi180011.ipynb).  
+
+Here is a link to the [pdf document](Homework3_axi180011.pdf).
