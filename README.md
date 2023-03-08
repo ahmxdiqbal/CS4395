@@ -26,7 +26,7 @@ Here is a link to [Program 1](Program1.py).
 
 Here is a link to [Program 2](Program2.py).
 
-Here is a link to [the narrative](Portfolio_Chapter_8_ N-grams_Narrative.pdf).
+Here is a link to [the narrative](Portfolio_Chapter_8_N-grams_Narrative.pdf).
 
 ## Portfolio Assignment 5: Sentence Parsing
 
