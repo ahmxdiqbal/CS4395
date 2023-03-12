@@ -32,7 +32,7 @@ Here is a link to [the narrative](Portfolio_Chapter_8_N-grams_Narrative.pdf).
 
 Here is a link to [Homework 5](NLP_Parsing_HW.pdf).
 
-## Portfolio Assignment 6: Portfolio: Finding or Building a Corpus
+## Portfolio Assignment 6: Finding or Building a Corpus
 
 Here is a link to [Homework 6](Homework6_axi180011.py).   
 
