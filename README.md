@@ -38,3 +38,7 @@ Here is a link to [Homework 6](Homework6_axi180011.py).
 
 Here is a link to [the report](HW6Report.pdf).   
 
+## Portfolio Assignment 7: Text Classification  
+
+Here is a link to [Homework 7](PA7.ipynb-Colaboratory.pdf).  
+
