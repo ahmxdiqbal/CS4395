@@ -42,3 +42,11 @@ Here is a link to [the report](HW6Report.pdf).
 
 Here is a link to [Homework 7](PA7.ipynb-Colaboratory.pdf).  
 
+## Portfolio Assignment 9: ACL Paper Summary
+
+Here is a link to [Homework 8](ACL_Paper_Summary-Ahmed_Iqbal.pdf).  
+
+## Portfolio Assignment 9: Text Classification 2
+
+Here is a link to [Homework 9](PA_9_TC2-Colaboratory.pdf).  
+
